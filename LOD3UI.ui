@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>LOD3UIClass</class>
+ <widget class="QWidget" name="LOD3UIClass" >
+  <property name="objectName" >
+   <string notr="true">LOD3UIClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>LOD3UI</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="LOD3UI.qrc"/>
+ </resources>
+ <connections/>
+</UI>
